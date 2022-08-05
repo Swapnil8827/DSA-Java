@@ -3,7 +3,7 @@ import array.KthMaxMinElementOfArray;
 import array.ReverseTheArray;
 import array.Sort012sArray;
 
-public interface Index {
+public class Index {
 
    Class  Q1 = ReverseTheArray.class;
    Class Q2 = FindMaximumMinimumInArray.class;
